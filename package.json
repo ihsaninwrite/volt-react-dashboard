@@ -51,6 +51,9 @@
     "sass": "^1.50.0",
     "simplebar-react": "^2.3.0"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -75,7 +78,4 @@
       "last 1 safari version"
     ]
   }
-  "engines": {
-  "node": "16.x"
-}
 }
